@@ -1,0 +1,5 @@
+homepage: 'https://www.amocrm.ru'
+documentation: 'https://github.com/amocrm/gtm-template/blob/main/README.md'
+versions:
+    - sha: c1cecf38b62a62760c81efb777f1ad24bd6ac1d5
+      changeNotes: Initial release.
